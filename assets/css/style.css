@@ -134,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-.branding {
+.marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,19 +144,12 @@ p {
 }
 
 
-.search-engine-optimization img {
+.marketing img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
 
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.marketing {
+.marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
