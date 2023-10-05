@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* created new class (name) in order to consolidate three classes that all had the same attributes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,18 +87,19 @@ p {
     background-color: #2589bd;
 }
 
+/* created new class (name) in order to consolidate three classes that all had the same attributes */
 .side-bar-1{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
+/* created new class (name) in order to consolidate three classes that all had the same attributes */
 .side-bar-text {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* created new class (name) in order to consolidate three classes that all had the same attributes */
 .side-bar-img {
     display: block;
     margin: 10px auto;
@@ -133,6 +135,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* correctected heading attribute, changing h2 to h4 */
+.footer h4 {
     font-size: 20px;
 }
